@@ -1,0 +1,7 @@
+Hello everyone and this wonderful world
+My name is keting Chen who come form China Zhejiang
+Now I'm a Computer Science Majors students and very happy to join github
+I hope that i can learn the Computer science  knowledge and handware and more
+this is my study line(uploading):
+2021.2.14
+C (studying~~)
