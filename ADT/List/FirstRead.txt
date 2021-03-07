@@ -1,0 +1,4 @@
+This is My first project maybe i will updata forever
+This ADT is about operate List
+Now it's updata on 1.2,and 1.2 is really run(the old version have some bug so that can not really run)
+I create this project that I can study in github,and I hope that github can help me to imporve mine.
