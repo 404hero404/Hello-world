@@ -5,3 +5,6 @@ I hope that i can learn the Computer science  knowledge and handware and more
 this is my study line(uploading):
 2021.2.14
 1.C (studying~~)
+2021.3.7
+1.C (studying~~)
+2.Java(studying~~)
