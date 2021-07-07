@@ -1,0 +1,4 @@
+2021.3.21
+更改CKTclear函数的名字，和Listsort函数的名字
+更改OperateList函数中pfunc参数，（Item item） -> (Item * item)「该函数现在拥有修改节点中具体成员的功能」
+更改CKTlistsort函数名为Listsort,取消其返回值，使得该函数更符合常识和接口特性；
